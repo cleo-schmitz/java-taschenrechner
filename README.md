@@ -1,1 +1,1 @@
-### A tiny test project for teaching basic GIT functionality
+A tiny test project for teaching basic GIT functionality
