@@ -3,7 +3,7 @@ public class Calculator {
 		return a + b;
 	}
 
-	public static int subtract(int a, int b){
+	public static long subtract(long a, long b){
 		return a - b;
 	}
 }
